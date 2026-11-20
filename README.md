@@ -1,29 +1,30 @@
 # Hi 👋
 
-Aspiring **Android security researcher**, learning in public, starting from zero.
+Aspiring **Android application security researcher & reverse engineer**, operating in the shadows, building from the ground up.
 
 ## 📚 Foundation first: CS50x
-I started programming from scratch with Harvard's **CS50x**. My goal is to **complete it through Week 5** (memory, pointers, and data structures) and build a solid foundation in programming fundamentals **before entering any specialization**.
+I started building my low-level foundation with Harvard's **CS50x**. My goal is to **complete it through Week 5** (focusing on memory, pointers, and data structures) to build a solid understanding of how systems work under the hood **before diving into specialization**.
 
-I'm stopping at Week 5 on purpose: memory and data structures are the most important concepts for everything I want to do next in security.
+I'm stopping at Week 5 on purpose: memory management and data structures are the core pillars for binary analysis and reverse engineering.
 
 ## 🔭 What I'm working on now
-- Finishing CS50x up to Week 5 and solving all problem sets
+- Completing CS50x up to Week 5 (focusing on core memory concepts, pointers, and data structures)
 - Following a structured, sequential roadmap, one stage at a time:
-  `C → Assembly (x86-64, ARM64) → Reverse Engineering → Memory Vulnerabilities → Vulnerability Research → Android App Security → Android Internals`
-- Practicing regularly and publishing short write-ups in my repositories
+  `C → Assembly (x86-64, ARM64) → Reverse Engineering → Memory Vulnerabilities → Vulnerability Research → Android App Security`
+- Documenting my understanding and publishing short technical write-ups in my repositories
 
 ## 🎯 Where I'm headed
-- **Android application security**: legal analysis of apps with Jadx and Frida, following the OWASP MASTG
-- Practice targets: DIVA, InsecureBankv2, OWASP UnCrackable
-- Long-term: vulnerability research at the Android system and kernel level
+- **Android application security & reverse engineering**: static and dynamic analysis of apps with Jadx, Apktool, and Frida, following the OWASP MASTG
+- Practice targets: DIVA, InsecureBankv2, OWASP UnCrackable, and CTF challenges
+- Long-term: advanced vulnerability research, anti-tampering analysis, and securing Android applications
 
 ## 🛠️ Tools & languages
-**Learning:** C · Ghidra · GDB · Jadx · Frida
-**Planned:** ARM64 Assembly · Kotlin/Java (reading) · AFL++
+**Environment & Core:** Debian 13 (GNOME) · Git · Android Studio · C
+**Learning & Next:** Assembly (x86-64, ARM64) · Ghidra · GDB · Jadx · Frida · Smali/Kotlin (reading)
 
 ## ⚖️ Ethics
 I practice only on legal targets: CTFs, crackmes, intentionally vulnerable apps, and bug bounty programs within their scope.
+
 
 
 ## 🌐 Socials:
