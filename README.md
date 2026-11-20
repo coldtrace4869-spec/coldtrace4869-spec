@@ -1,5 +1,29 @@
-# 💫 About Me:
-🔭 I’m currently working on **Android Reverse Engineering & Binary Analysis labs**<br>👯 I’m looking to collaborate on **CTF Challenges (Reversing & Mobile Security)**<br>🤝 I’m looking for help with **Advanced Native Code Obfuscation & Kernel Internals**<br>🌱 I’m currently learning **C, Assembly, Ghidra, and Android App Internals**<br>💬 Ask me about **Static/Dynamic Analysis, Smali, APK Decompilation, and Logic Flaws**<br>⚡ Fun fact **Decompiling the black box, byte by byte — operating in the shadows.**<br>
+# Hi 👋
+
+Aspiring **Android security researcher**, learning in public, starting from zero.
+
+## 📚 Foundation first: CS50x
+I started programming from scratch with Harvard's **CS50x**. My goal is to **complete it through Week 5** (memory, pointers, and data structures) and build a solid foundation in programming fundamentals **before entering any specialization**.
+
+I'm stopping at Week 5 on purpose: memory and data structures are the most important concepts for everything I want to do next in security.
+
+## 🔭 What I'm working on now
+- Finishing CS50x up to Week 5 and solving all problem sets
+- Following a structured, sequential roadmap, one stage at a time:
+  `C → Assembly (x86-64, ARM64) → Reverse Engineering → Memory Vulnerabilities → Vulnerability Research → Android App Security → Android Internals`
+- Practicing regularly and publishing short write-ups in my repositories
+
+## 🎯 Where I'm headed
+- **Android application security**: legal analysis of apps with Jadx and Frida, following the OWASP MASTG
+- Practice targets: DIVA, InsecureBankv2, OWASP UnCrackable
+- Long-term: vulnerability research at the Android system and kernel level
+
+## 🛠️ Tools & languages
+**Learning:** C · Ghidra · GDB · Jadx · Frida
+**Planned:** ARM64 Assembly · Kotlin/Java (reading) · AFL++
+
+## ⚖️ Ethics
+I practice only on legal targets: CTFs, crackmes, intentionally vulnerable apps, and bug bounty programs within their scope.
 
 
 ## 🌐 Socials:
